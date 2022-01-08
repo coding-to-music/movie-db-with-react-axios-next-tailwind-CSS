@@ -1,4 +1,9 @@
-# Movie-DB
+# Movie-DB with React, Axios, Next, Tailwind CSS
+
+By
+https://github.com/nachoiacovino/movie-db
+
+https://movie-db-nachoiacovino.vercel.app/
 
 You can see a live version of this project [here](https://movie-db-psi.vercel.app/).
 
